@@ -17,7 +17,6 @@ The SNSS Field Employee Tracking App is a complete solution for managing field o
 ![Edit Page ](https://drive.google.com/file/d/1MHchf-syPLSxJ0pl9KYUHMSfF7qxKNP0/view?usp=drive_link)
 ![Route Page](https://drive.google.com/file/d/109NIsGhybo2R9K7rwKI5Of7LAZ1h_Jp7/view?usp=drive_link)
 
-![Deatiled Route Page ](https://drive.google.com/file/d/1CU2z49sgFPkrLk_55DY7uvBcawP1-I7C/view?usp=drive_link)
-
+![Deatiled Route Page ](https://drive.google.com/file/d/1K4ObvrQdl60ivaM6J5yGchCllNU4TCP5/view?usp=drive_link)
 ![My Activity Page](https://drive.google.com/file/d/1kWjI_Zqmbt9QJphyqnQNkbsV3ODNV6Cn/view?usp=drive_link)
 
